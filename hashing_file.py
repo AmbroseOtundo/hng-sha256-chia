@@ -11,7 +11,7 @@ writer = csv.writer(f)
 writer.writerow(['S/N', 'Filename', 'UUID', 'Output File Name'])
 
 # Reading the csv file and skipping the first row.
-with open('name.csv', 'r') as csv_file:
+with open('path/You csv file', 'r') as csv_file:
     read_csv = csv.reader(csv_file, delimiter=',')
     next(read_csv)
     data = [a for a in read_csv] 
@@ -20,6 +20,7 @@ with open('name.csv', 'r') as csv_file:
     for row in data:
         if row[1] and row[2]:
             sn, file_name, uuid = row[0], row[1], row[2]
+           # This is creating a dictionary with the keys and values as directed by the given json schema
             json_file = {
                 'format' : 'CHIP-0007',
                 'id' : uuid,
@@ -31,21 +32,23 @@ with open('name.csv', 'r') as csv_file:
                 'series_number' : sn,
                 'series_total' : data[-1][0],
                 'collection' : {
-                    'name' : 'viganem-the-drummer-girl',
-                    'id' : '5a5a6f5c-39f3-4beb-ab74-60d3c7a90fd4'
+                    'name' : '',
+                    'id' : ''
                 }
             }
 
             # Creating a json file for each row in the csv file.
-            jsonObj = json.dumps(json_file, indent=4)
-            with open(f'{file_name}.json', 'w') as output:
-                output.write(jsonObj)
+            jsonObject = json.dumps(json_file, indent=4) # Converting the json file to a string.
+            with open(f'{file_name}.json', 'w', encoding='utf-8') as output:
+                output.write(jsonObject)
             output.close()
 
            # Creating a hash of the json file and appending it to the csv file.
-            hashString = hashlib.sha256(jsonObj.encode()).hexdigest()
+            hashString = hashlib.sha256(jsonObject.encode()).hexdigest()
+           # Appending the file name to the csv file.
             row.append(f'{file_name}.csv')
             writer.writerow(row)
 
+# Closing the file.
 f.close()
         
