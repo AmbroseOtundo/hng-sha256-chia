@@ -6,9 +6,9 @@ import json
 create_csv = 'files/filename_output.csv'
 f = open(create_csv, 'w')
 writer = csv.writer(f)
-
+writer.writerow(['S/N', 'Filename','Name','Description','Gender','UUID', 'SHA256'])
 # Reading the csv file and skipping the first row.
-with open('name.csv', 'r') as csv_file:
+with open('hng.csv', 'r') as csv_file:
     read_csv = csv.reader(csv_file, delimiter=',')
     next(read_csv)
     data = [a for a in read_csv] 
