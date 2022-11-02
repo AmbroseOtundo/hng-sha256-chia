@@ -16,5 +16,7 @@ generated json files.
 ```
 run python hashing_file.py
 ```
+## Results
+Check the files folder to check the generated hash and the json folder for the json files.
 ## Author 
 Ambrose Otundo
