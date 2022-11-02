@@ -1,0 +1,15 @@
+{
+    "format": "CHIP-0007",
+    "id": "Deladem",
+    "name": "Zurinft_Zcm2R9C7 Goldman",
+    "filename": "zurinft_zcm2r9c7-goldman",
+    "description": "",
+    "minting_tool": "Ambrose takeover",
+    "sensitive_content": false,
+    "series_number": "157",
+    "series_total": "160",
+    "collection": {
+        "name": "viganem-the-drummer-girl",
+        "id": "5a5a6f5c-39f3-4beb-ab74-60d3c7a90fd4"
+    }
+}

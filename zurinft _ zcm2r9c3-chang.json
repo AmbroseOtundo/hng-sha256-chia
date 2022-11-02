@@ -1,0 +1,15 @@
+{
+    "format": "CHIP-0007",
+    "id": "Kiokoli",
+    "name": "Zurinft _ Zcm2R9C3 Chang",
+    "filename": "zurinft _ zcm2r9c3-chang",
+    "description": "",
+    "minting_tool": "Ambrose takeover",
+    "sensitive_content": false,
+    "series_number": "153",
+    "series_total": "160",
+    "collection": {
+        "name": "viganem-the-drummer-girl",
+        "id": "5a5a6f5c-39f3-4beb-ab74-60d3c7a90fd4"
+    }
+}
