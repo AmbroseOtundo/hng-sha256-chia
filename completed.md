@@ -1,0 +1,4 @@
+ -- check the csv file and generate a json file.
+ -- Generate a sha256 from the json
+ -- append it to the new csv file as a column
+ -- output a new csv filename.output.csv
