@@ -3,15 +3,12 @@ import hashlib
 import json
 
 # This is creating a csv file and writing the header to it.
-create_csv = 'filename_output.csv'
+create_csv = 'files/filename_output.csv'
 f = open(create_csv, 'w')
 writer = csv.writer(f)
 
-# Writing the header to the csv file.
-writer.writerow(['S/N', 'Filename', 'UUID', 'Output File Name'])
-
 # Reading the csv file and skipping the first row.
-with open('path/You csv file', 'r') as csv_file:
+with open('name.csv', 'r') as csv_file:
     read_csv = csv.reader(csv_file, delimiter=',')
     next(read_csv)
     data = [a for a in read_csv] 
@@ -35,18 +32,19 @@ with open('path/You csv file', 'r') as csv_file:
                     'name' : '',
                     'id' : ''
                 }
+                
             }
 
             # Creating a json file for each row in the csv file.
             jsonObject = json.dumps(json_file, indent=4) # Converting the json file to a string.
-            with open(f'{file_name}.json', 'w', encoding='utf-8') as output:
+            with open(f'json/{file_name}.json', 'w') as output:
                 output.write(jsonObject)
             output.close()
 
            # Creating a hash of the json file and appending it to the csv file.
             hashString = hashlib.sha256(jsonObject.encode()).hexdigest()
            # Appending the file name to the csv file.
-            row.append(f'{file_name}.csv')
+            row.append(hashString)
             writer.writerow(row)
 
 # Closing the file.
