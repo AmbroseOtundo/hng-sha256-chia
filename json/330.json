@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "330",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "olebon in customized buba sokoto"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald eyes: closed teeth: none skin: darkskin clothing: animal print accessories: none expression: surprised strength: empathy   weakness: easily bored",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

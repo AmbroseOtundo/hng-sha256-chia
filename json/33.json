@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "33",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Aminu is a wealthy man from a family with generational wealth. "
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: none; clothings: maroon and yellow agbada; accessories: cap; expression: unbothered; strength: confidence; weakness: selfishness",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

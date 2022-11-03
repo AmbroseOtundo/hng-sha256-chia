@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "285",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A university undergraduate from a rich background"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: blond eyes: shades teeth: closed clothing: blacktop accessories: shades expression: straight-face strength: wealth weakness: lack of real friends",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

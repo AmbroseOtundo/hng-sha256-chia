@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "414",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Vivian just like the thomas in the bible; she doubts all."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: long red braid; eyes: brown; teeth: none; clothing: red ankara one hand dress; accessories: none; expression: pissed; strength: logic; weakness: trust issues",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

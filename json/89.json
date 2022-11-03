@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "89",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A very observant person."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: blue; teeth: none  clothing: one-sleeved ankara top; accessories: earrings & necklace  expression: shocked; strength: unpredictable; weakness: loner",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

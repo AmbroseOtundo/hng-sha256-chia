@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "131",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Lanre has a great reputation."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none ;eyes: none; teeth:white; clothings: ankara; accessories:cap; expression: happy; strength:strong; weakness:anger;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

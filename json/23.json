@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "23",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Salam is a big time textile marketer always sourcing for quality materials."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: brown; teeth: none; clothings: wine and yellow; accessories: yayada cap; expression: happy; strength: influence; weakness: impatience",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

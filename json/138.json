@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "138",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Cynthia with priceless cute eyes."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:yellow ;eyes: blue;teeth:none; clothings: blue and yellow; accessories: none; expression: serious face; strength: mild; weakness:pride;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

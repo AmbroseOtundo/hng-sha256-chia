@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "258",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Rich Hausa business mongul controlling half of cow production in Nigeria."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none; eyes:squinting; teeth:missing a front tooth; clothing:ankara agbada; accessories:cap; expression:smiling; strength:wealthy; weakness:dishonest",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

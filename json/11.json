@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "11",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "He lives in a monastery off the coast. No one has heard him speak in years."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: blue; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

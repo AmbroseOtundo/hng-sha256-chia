@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "128",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Olu the great ruler in our land."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple braided hair ;eyes: black; teeth: none; clothings: mixed color traditional wear; accessories: none; expression: serious face; strength:mild; weakness:anger;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

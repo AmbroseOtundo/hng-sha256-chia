@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "366",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Rofiat; the distressed marketing intern."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple dreadlocks; eyes: brown; teeth: none; clothing: danshiki; accessories: none; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

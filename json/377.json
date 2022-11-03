@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "377",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Abena; the gang's slay queen."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: long brown braids; eyes: squinting; teeth: none; clothing: v-neck original kente; accessories: none; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

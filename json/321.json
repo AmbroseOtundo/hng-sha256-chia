@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "321",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM SANDPAPER",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "omunyinyi wears a Kitenge coat"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald eyes: tearyteeth: noneskin: brownskinclothing: checked ankara accessories: none expression: teary strength: powerful weakness: self-loathing",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

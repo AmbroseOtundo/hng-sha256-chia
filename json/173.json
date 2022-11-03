@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "173",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Lawal has only one business which is just to sleep and sleep. it's only normal for him to drool anytime."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: teary grey iris; teeth: gapped teeth; clothing: agbada; expression: sleepy; accessories: head wear; strength: rich; weakness: alcoholism",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "419",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Funke is always the life of every party; strong gen z advocate."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: two red buns; eyes: none; teeth: none; clothing: one hand patterned ankara dress; accessories: yellow sun shades; expression: cool; strength: music; weakess: selfish",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

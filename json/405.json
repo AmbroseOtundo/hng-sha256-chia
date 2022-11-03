@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "405",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Lola is the head maketer at her firm and she is the best at negotiating."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: long red braids; eyes: closed; teeth: none; clothing: geometric ankara print; accessories: none; expression: unfazed; strength: conviction; weakness: narcissism",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

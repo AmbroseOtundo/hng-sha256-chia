@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "216",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A girl that nevers wears long cloths and gets herself thrown out of churches for indecent dressing."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: white; eyes: blue; teeth: none; clothing: shirt; accessories: tan; expression: none; strength: seduction; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

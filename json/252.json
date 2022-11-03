@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "252",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Abuja big boy who knows he can get any lady he wants."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none; eyes:black; teeth:none; clothing:agbada; accessories:bubble gum and cap; expression:charming; strength:chivalry; weakness:unfaithful",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

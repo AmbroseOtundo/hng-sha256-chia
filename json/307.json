@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "307",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nobody gossips on the block like stella when smoking."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: red  eyes: covered eyes  teeth: none  clothing: black ankara with bright design   accessories: none  expression: calm  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

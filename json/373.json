@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "373",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Miss Busayo; can transplant your husband with the blink of her eyes."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: brown; teeth: none; clothing: none; accessories: none; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

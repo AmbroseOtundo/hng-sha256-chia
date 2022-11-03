@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "164",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Sola is a princess as she's got the mind of a queen."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown long hair; eyes: none; teeth: none; clothing: blouse top; expression: cool; accessories: eye glasses; strength: Strong character; weakness: beauty",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

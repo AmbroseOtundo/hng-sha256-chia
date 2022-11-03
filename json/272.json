@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "272",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Chiamaka dances so well and earned the Guinness world record."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:black; eyes: grey; teeth: none; clothing: yellow off shoulder; expression: none; strength: creativity; weakness: lack of confidence",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "178",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "2pac is alive in him because his style is exactly the same."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: blue iris; teeth: gapped teeth; clothing: Igbo clothing; expression: surprised; accessories: face cap; strength: hardworking; weakness:fear",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

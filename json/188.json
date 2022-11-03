@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "188",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Dances her way into any show"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black hair tied with scalf; eyes: black  teeth: none  clothing: one-arm top  accessories: none  expression: bad girl vibes  strength: cleaniness; weakness: perfectionist",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

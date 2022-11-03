@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "107",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Shade loves soft life and makeup."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: blue;opened; teeth: none; clothing: ankara print; accessories: none; expression: none; strength: makeup; weakness: sleeping",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

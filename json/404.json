@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "404",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Betty is very proud of her beauty and does not hesitate to flaunt it."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange bob; eyes: closed; teeth: none; clothing: orange one hand ankara print; accessories: none; expression: stoic; strength: beauty; weakness: pride",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

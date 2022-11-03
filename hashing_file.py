@@ -6,9 +6,8 @@ import json
 create_csv = 'files/filename_output.csv'
 f = open(create_csv, 'w')
 writer = csv.writer(f)
-writer.writerow(['S/N', 'Filename','Name','Description','Gender','UUID', 'SHA256'])
 # Reading the csv file and skipping the first row.
-with open('hng.csv', 'r') as csv_file:
+with open('hng1.csv', 'r') as csv_file:
     read_csv = csv.reader(csv_file, delimiter=',')
     next(read_csv)
     data = [a for a in read_csv] 
@@ -16,23 +15,39 @@ with open('hng.csv', 'r') as csv_file:
    # Creating a json file for each row in the csv file.
     for row in data:
         if row[1] and row[2]:
-            sn, file_name, uuid = row[0], row[1], row[2]
+            
+            series_number = row[0]
+            file_name = row[1]
+            name= row[2]
+            description= row[3]
+            gender = row[4]
+            attributes = row[5]
+            uuid = row[6]
            # This is creating a dictionary with the keys and values as directed by the given json schema
             json_file = {
                 'format' : 'CHIP-0007',
-                'id' : uuid,
                 'name' : file_name.replace('-', ' ').title(),
-                'filename': file_name,
                 'description' : '',
                 'minting_tool' : '',
+                'series_number' : series_number,
                 'sensitive_content' : False,
-                'series_number' : sn,
                 'series_total' : data[-1][0],
-                'collection' : {
-                    'name' : '',
-                    'id' : ''
-                }
-                
+                 "attributes": [
+                    {
+                        "trait_type": "gender",
+                        "value": gender
+                    }
+                ],
+                "collection": {
+                    "name": "Zuri NFT tickets for free lunch",
+                    "id": uuid,
+                    "attributes": [
+                        {
+                            "type": "description",
+                            "value": "Rewards for accomplishments during HNGi9"
+                        }
+                    ]
+                },
             }
 
             # Creating a json file for each row in the csv file.

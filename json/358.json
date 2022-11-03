@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "358",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "He might be every woman's man but faithful and loyal to one."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: gobi cap; eyes: closed eyes; teeth: closed teeth; clothing: ghana dansiki; accessories: gold shades; expression: owanbe mood; strength: from a walthy home; weaknes: disrespectful;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "148",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A timid and dancer who is always afraid of a large crowd of audience and yet his dance moves can raise the dead."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: face; cap: turned to the side;  eyes: none;  teeth: none;  clothing: yellow and blue ankara;  accessories: none;  expression: warm;  strength: none;  weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

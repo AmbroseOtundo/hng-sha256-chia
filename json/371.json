@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "371",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Meet Nesta;the National Chairlady; (SAN)Shege Administrators of Nigeria."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: double puffy hair; eyes: brown; teeth: none; clothing: bow neck wax print; accessory: hair bands; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

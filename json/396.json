@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "396",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Abigail is the k-pop stan who loves comic books."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: wavy brown curls; eyes: aquamarine; teeth: none; clothing: drum patterned danshiki; accessories: earrings; expression: none; strength: moonbeam; weakness: erinle",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

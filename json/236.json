@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "236",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A tech bro that loves to party but has bad communication skill."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: blue; teeth: none; clothing: ankara; accessories: none; expression: proud; strength: smart; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

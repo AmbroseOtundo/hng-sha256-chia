@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "401",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM BOOT",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Becky ends every statement she makes with a smirk."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black low cut; eyes: brown; teeth: none; clothing: animal print dress; accessories: ankara beret; expression: smirking; strength: curiosity; weakness: short sighted",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "233",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Queen of the royal Ghana youths"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: black; teeth: white; clothing: gele; accessories: none; expression: shocked; strength: tough; weakness: bossy",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

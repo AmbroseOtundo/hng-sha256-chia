@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "399",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Yemoja is a content creator who is known for her cool girl aesthetic."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange pigtail; eyes: dark brown; teeth: none; clothing: black patterned kento; accessories: hair clip; expression: dismayed; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

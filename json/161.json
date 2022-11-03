@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "161",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM HEADLIGHT",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Funmi enjoys fashion and she always takes opportunity to showcase her wardrobe."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black hair; eyes: none; teeth: none; clothing: aso oke; expression: cool; accessories: head tye and eye glasses; strength: fashion; weakness: men",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

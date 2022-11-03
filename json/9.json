@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "9",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ebiowei has a reputation for nurturing plants."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: none; teeth: none; clothing: multicolored; accessories: none; expression: none; strength: powerful; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

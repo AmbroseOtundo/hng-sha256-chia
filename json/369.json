@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "369",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Here's Amaka; our one and only mummy G.O who's been to hell and back."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: dark brown; eyes: blue; teeth: none; clothing: blue v-neck wax print; accessories: none; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "303",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Timeyin is as eccentric as they come with no care for others opinions"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown   eyes: blue   teeth:none   clothing: multi-colored ankara  accessories: smoking pipe  expression: high  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

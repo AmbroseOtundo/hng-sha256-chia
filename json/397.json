@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "397",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Abike is a well known trader & the iya-loja of the largest market in Lagos."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple bun; eyes: midnight black; teeth: vampiric; clothing: purpulish black buba; accessories: berret; expression: scary; strength: hammer of justice; weakness: oya",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

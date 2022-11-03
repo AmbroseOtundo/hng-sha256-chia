@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "140",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ada always chewing gum."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none;eyes: none;teeth: white; clothings: traditional wear; accessories:cap; expression:sassy; strength:decisive; weakness: insensitive;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

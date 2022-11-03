@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "36",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Linda knows how to make a way for herself and the people around her."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: blonde; eyes: none; teeth: none; clothings:multicolored; accessories: glasses; expression: confused; strength: creative; weakness: insecure",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

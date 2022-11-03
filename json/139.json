@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "139",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Mary with her beautiful Afro."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none;eyes: none;teeth:none; clothings: casual ankara; accessories:cap; expression:scared; strength:sensitive; weakness: fearful;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "403",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ronke is the ghetto goddess that nobody wants to mess with; stay clear."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple dreadlocks; eyes: closed; teeth: none; clothing: blue one hand dress; accessories: none; expression: unfazed; strength: intellect; weakness: impatient",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

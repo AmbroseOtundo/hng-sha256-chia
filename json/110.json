@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "110",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Fayo is a yoruba demon with excellent communication skills."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: opened; teeth: none; clothing: africa print; accessories: mask; expression: none; strength: determined; weakness: steals",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

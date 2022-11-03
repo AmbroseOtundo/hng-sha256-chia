@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "206",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A girl with a bald hair but always wears wig to cover her head."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange; eyes: glasses; teeth: none; clothing: blouse; accessories: normal; expression: none; strength: none; weakness: barbing-saloon",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

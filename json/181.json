@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "181",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM CRANKSHAFT",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "She is the most beautiful in the neighbourhood"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:pitch; eyes: blue  teeth: none  clothing: top accessories: bow-tie  expression: strengths: powerful; weakness: sentimental",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "341",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM RULER",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Mansur is the life of a party and never caught dulling."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: ash grey; teeth: none;  clothing: agbda; accessories: studs; expression:happy; strength: intelligent; weakness: red whine;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

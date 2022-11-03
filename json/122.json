@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "122",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Obasanjo is such a sweet guy loves by all. "
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none ;eyes: black;teeth:small open teeth; clothings: sleeveless yellow ankara; accessories:none; expression: serious face; strength:mild; weakness:anger",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

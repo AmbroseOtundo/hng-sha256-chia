@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "318",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "EMi is a beautiful dancer; she rules the reggae world."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:pink braids   eyes: covered eyes   teeth: none  clothing: multicolored ankara  accessories: yellow glasses  expression: happy  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

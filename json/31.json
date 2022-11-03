@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "31",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Sinzu loves spending money on flashy things."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: blue; teeth: white complete teeth and a brown tooth; clothings: purple and yellow kaftan; accessories: green-stripped fila cap; expression: strength; strength: generous; weakness: aggressive ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

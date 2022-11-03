@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "289",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A rich igbo trader who imports goods in onitsha market"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: covered eyes: light blue teeth: white and a gold tooth clothing: isi-agu accessories: cap expression: straight-face strength: wealth weakness: irrational",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "292",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A yoruba chief who is also a car dealer"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: covered eyes: light blue teeth: white with a gold tooth clothing: akan accessories: none expression: emotional strength: friendly weakness: deceitful",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

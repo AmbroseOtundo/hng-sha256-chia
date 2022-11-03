@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "60",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A ninja warrior; the last samurai standing."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: white; eyes:brown; teeth: none; clothing: ankara; accessories:chain; expression: smiling; strength:brave; weakness:water",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

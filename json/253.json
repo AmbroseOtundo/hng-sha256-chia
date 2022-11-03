@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "253",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Essien is a top Lagos businessman who hails from Uyo."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none; eyes:cyan and left side eyed; teeth:none; clothing:chieftancy; accessories:candy bar; expression:; strength:; weakness:loves women a lot",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

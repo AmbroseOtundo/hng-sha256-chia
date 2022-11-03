@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "284",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A lady who's toxic around people"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: two buns eyes: shades teeth: white clothing: animal prints accessories: shades expression: angry strength: bully weakness: insecurity",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

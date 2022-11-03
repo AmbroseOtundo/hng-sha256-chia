@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "166",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Jonny is friendly to all and everybody sees him as kind agile Jonny."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange pink; eyes: closed; teeth: candy in mouth; clothing: igbo attire; expression: relaxed; accessories: candy in mouth; strength: helping people; weakness: hastly rash",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

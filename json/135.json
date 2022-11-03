@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "135",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Obi loves service to humanity."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none ;eyes: blue; teeth:white; clothings: brown; accessories:cap; expression:happy; strength: strong; weakness:none;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

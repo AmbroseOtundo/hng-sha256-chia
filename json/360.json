@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "360",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Jane is always found in the midst of men and loves partying."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: long grey braids; eyes: closed; teeth: black lips; clothing: black short gown; accessories: gold shades; expression: happy; strength:very intelligent; weaknes: have mood swings easily;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

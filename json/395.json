@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "395",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Maame is a no nonsense tough cookie who is never afraid to start something."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown wavy; eyes: none; teeth: vampiric; clothing: yellow patterned kento; accessories: glasses; strength: scale of justice; weakness: anansi",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

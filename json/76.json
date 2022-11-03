@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "76",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A man who is ready to save the world."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: opened; teeth: none; clothing: kaftan; accessories: nose mask; expression: soothing; strength: mind games; weakness: insomia",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

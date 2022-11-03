@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "174",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Solo is a multitasker if you need anything done in your home, Solo is your guy."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black eye; teeth: stained tooth; clothing: simple top; expression: relax; accessories: cap; strength: multitasking; weakness: women",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "61",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM GRIT",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A man stronger than an army."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: closed; teeth: none; clothing: overall; accessories: nose mask; expression: happy; strengths: powerful; weakness: sentimental",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

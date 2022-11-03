@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "357",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ugochukwu is an online celebrity with many followers on social media."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: white blode; eyes: closed eyes; teeth: closed teeth; clothing: black gown; accessories: gold shades; expression: bitchy; strength: enterprising; weaknes: too emotional;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

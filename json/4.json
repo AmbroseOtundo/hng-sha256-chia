@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "4",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Aminu's hands are blessed; he makes the best furniture in the whole of Kano."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: blue; teeth: none; clothing: yellow; accessories: mask; expression: none; strength: powerful; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "53",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "She has a twin from Tibet and they always play together ."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: blue; eyes: brown; teeth: none; clothing: ankara; accessories: none; expression: smiling; strength: brave; weakness: money",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

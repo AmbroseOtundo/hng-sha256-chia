@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "158",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A fisherman who pracitically live in the river."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange and cream cap;  eyes: none;  teeth: none;  clothing: orange and blue denim;  accessories: none;  expression: unbothered;  strength: none;  weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

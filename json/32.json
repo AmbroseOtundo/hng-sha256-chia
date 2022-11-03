@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "32",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Obinna taps palmwine for a living."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: none; clothings: yellow; black and a touch of pink ankara; accessories: cap; expression: happy; strength: contentment; weakness: naive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "85",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A guy who does not like stress."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: black; teeth: none; clothing: white shirt; accessories: glasses; expression: friendly; strength: outgoing; weakness: lacks boundaries",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

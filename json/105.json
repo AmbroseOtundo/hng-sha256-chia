@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "105",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Hannah loves singing and belongs to choir."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: blonde; eyes: opened; teeth: none; clothing: flower print dress; accessories: earrings; expression: angry; strength: singing; weakness: reading",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

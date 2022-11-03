@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "402",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Scarlett is a tailor at yaba market and she loves what she does."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange bun; eyes: closed; teeth: none; clothing: ankara mixed with black material dress; accessories: none; expression: unethusiastic; strength: fashion; weakness: timidity",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

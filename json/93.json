@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "93",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A leader of a third-world country"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: black; teeth: none; clothing: off-shoulder ankara top; accessories: earrings & necklace; expression: anxious; strength: trend spotter; weakness: distracted easily",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "304",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Omawunmi is a no-nonsense woman with a shop in idumota"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: pink   eyes: blue   teeth: white teeth   clothing: yellow ankara  accessories: none  expression: angry  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "204",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A girl that puts on lipstick always, even to bed."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: glasses; teeth: none; clothing: blouse; accessories: none; expression: sazzy; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

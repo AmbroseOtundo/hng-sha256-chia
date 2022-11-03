@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "306",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Muna loves to tell everyone in the block about her younger escapades"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black  eyes: blue   teeth: none  clothing: wolf-skin ankara  accessories: headgear  expression: shocked  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

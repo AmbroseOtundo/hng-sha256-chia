@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "278",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "When tired Sharon walks like the dead"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:dark brown; eyes: closed; teeth: open teeth; clothing: blue ankara; expression: loud; strength: people skills; weakness:empathy",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

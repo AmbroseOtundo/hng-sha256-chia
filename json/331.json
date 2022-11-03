@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "331",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "clothing inspired by maasai shuka"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald eyes: closed teeth: none skin: none clothing: ankara shirt accessories: none expression: visionary strength:  authentic weakness: selfish",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

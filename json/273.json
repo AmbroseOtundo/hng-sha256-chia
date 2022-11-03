@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "273",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Mensah outfits are always giving us Christopher Hemsworth vibes."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:black; eyes: black with glasses; teeth: none; clothing: gold with kente; expression: none; strength: public speaking; weakness: lack of experience",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

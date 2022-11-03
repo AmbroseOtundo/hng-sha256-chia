@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "268",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Simisola rocks kente even in swim outfits"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:brown; eyes: blue; teeth: none; clothing: multicolour yellow kente; expression: smiling; strength: patience; weakness: self-criticism",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

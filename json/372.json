@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "372",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Adaora; our able choir mistress that will take your boyfriend for vanishing."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: brown; teeth: none; clothing: none; accessory: choker necklace; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

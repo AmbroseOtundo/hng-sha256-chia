@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "84",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A newbie comedian."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: black; teeth: none; clothing: green shirt; accessories: glasses; expression: bold; strength: optimistic; weakness: unobservant",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

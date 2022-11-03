@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "361",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM VBELT",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Meet Osas; a Gen-Z CEO with the British accent."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple dreadlocks;  eyes: none; teeth: none; clothing: danshiki;  accessory: gold glasses; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

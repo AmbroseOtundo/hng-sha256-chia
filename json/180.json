@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "180",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Evangelist Gabby is blending gospel with comedy."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: pink hair; eyes: black iris; teeth: none; clothing: agbada; expression: happily surprised; accessories: none; strength: make people happy; weakness:misleading",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

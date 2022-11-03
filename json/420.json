@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "420",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ngozi make heads turn with her beautiful collection of materials from all over Africa."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: red afro; eyes: none; teeth: none; clothing: ghana kente dress; accessories: yellow sunglasses; expression: pissed; strength: money; weakness: pride",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

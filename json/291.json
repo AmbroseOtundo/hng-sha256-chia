@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "291",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A yoruba juju artist"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown eyes: closed teeth: white clothing: akan accessories: none expression: happy strength: good voice weakness: womanizer",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

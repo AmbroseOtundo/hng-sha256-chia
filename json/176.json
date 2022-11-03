@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "176",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Friday always live up to his name. Every Friday is for the party."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange afro; eyes: black iris; skin color: brown; teeth: none; clothing: aso oke; expression: unconcerned; accessories: cigrette in mouth; strength: money in pocket; weakness: sense of responsibility",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

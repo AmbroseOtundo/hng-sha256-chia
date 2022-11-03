@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "165",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Temi is know for her funny haircut and this time afro is up."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange full hair; eyes: none; teeth: none; clothing: ankara; expression: cool; accessories: eye glasses; strength: loving; weakness: sheepish",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "329",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "milele with a nice african print in orange"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald eyes: blue teeth: none skin: dark skin clothing: orange ankara accessories: none expression: timid strength: leader weakness: failure",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

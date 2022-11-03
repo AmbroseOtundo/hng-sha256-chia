@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "145",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "The most interesting christmas clown, known for dancing in prisons and hospitals on christmas eve."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: burgundy dreadlocks;  eyes: none;  teeth: none;  clothing: kente blouse with asymmetric neckline;  accessories: none;  expression: off-standish;  strength: none;  weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

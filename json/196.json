@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "196",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "She has a cloth store in Yaba"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: mind games; weakness: insomia",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

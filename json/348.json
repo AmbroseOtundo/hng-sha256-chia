@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "348",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Dolapo loves African prints and loves to showcase culture."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:bald; eyes: brown; teeth: none; clothing: one sided blowse; accessories: nose mask; expression: none; strength: beautiful; weakness: forgetful;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

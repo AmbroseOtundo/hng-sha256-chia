@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "263",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Kiekie is classfied as the life of the party"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:purple; eyes: grey; teeth: none; clothing: blue and yellow ankara; expression: smile; strength: helpful ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

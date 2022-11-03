@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "28",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Shola prefers to be alone because he hates stress."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: none; teeth: none clothings: yellow t-shirt and blue dongaris; accessories: red facecap; expression: playful; strength: fun; weakness: playful",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

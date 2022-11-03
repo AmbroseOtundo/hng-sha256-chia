@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "255",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "The oldest man of the Akwauzu clan."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none; eyes:black; teeth:missing two teeth; clothing:ankara native top; accessories:chewing stick; expression:lighthearted; strength:always advising; weakness:talks too much",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

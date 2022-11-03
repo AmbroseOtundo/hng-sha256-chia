@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "207",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A boy that lives in the streets of Lagos hustling everyday to make ends meet."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: none; clothing: shirt; accessories: gang; expression: smiling; strength: hustling; weakness: alcohol",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

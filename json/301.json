@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "301",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM SCALE",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Wendy loves working in the bank, as she gets to meet different people."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: dark red   eyes: blue  teeth:none  clothing: blue and yellow ankara   accessories: none  expression: shocked  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

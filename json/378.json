@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "378",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Sister Gasira; wipes people Oraimo cord for a living."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown bun; eyes: none; teeth: vampire teeth; clothing: right one-shoulder wax print; accessories: none; expression: none; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

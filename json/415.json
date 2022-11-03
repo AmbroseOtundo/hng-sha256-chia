@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "415",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Simbi is reserved but doesn't allow anyone intimidate her."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: two orange buns; eyes: brown; teeth: none; clothing: geometric ankara dress; accessories: none; expression: annoyed; strength: communication; weakness: stubborn",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

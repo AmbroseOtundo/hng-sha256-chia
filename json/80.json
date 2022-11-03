@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "80",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A ghanaian model; proud of his culture."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: opened; teeth: none; clothing: kente; accessories: nose mask; expression: irritated;  strength: height;  weakness: pride",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

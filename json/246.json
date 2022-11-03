@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "246",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Well endowed woman who will always make heads turn."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: dark brown; eyes: black and grey; teeth: none; clothing: orange, blue, yellow and black ankara; accessories: none; expression: straight faced; strength: smart; weakness: cunny",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "201",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM GEAR",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A rich merchant that sells in babylon."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: closed; teeth: none; clothing: one-hand; accessories: none; expression: smiling; strength: business; weakness: alcohol",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

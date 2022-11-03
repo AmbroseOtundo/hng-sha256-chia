@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "320",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "She sews the most beautiful dress in the hood"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:grey  eyes: covered eyes   teeth: none  clothing: black dress  accessories: yellow glasses  expression: happy  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

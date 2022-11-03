@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "342",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Tola loves business and owns several shops in Idumota."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: midnightblack; teeth: none;  clothing: purple blowse; accessories: mask; expression:furious; strength: powerful; weakness: love;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

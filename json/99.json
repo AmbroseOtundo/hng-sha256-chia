@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "99",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A highly disciplined woman."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: red braids; eyes: white; teeth: none; clothing: yellow danshiki; accessories: none; expression: blank; strength: assertive; weakness: talkative",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

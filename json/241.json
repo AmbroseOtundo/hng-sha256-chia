@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "241",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM AXLE",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Alinco always in the mood for play."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange; eyes: black; teeth: rabbit front teeth; clothing: white polo and blue pinafore; accessories: none; expression: unamused; strength: good listener; weakness: mostly unserious and plays roughly a lot",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

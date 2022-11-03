@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "256",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Minister of enjoyment for Freedom state."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none; eyes:squint; teeth:gold tooth; clothing:agbada; accessories:cap; expression:grinning; strength:persuasive speaker; weakness:manipulative",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

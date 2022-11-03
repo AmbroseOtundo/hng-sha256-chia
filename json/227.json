@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "227",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "An eccentric teenager that loves music."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: pumpkin; eyes: blue; teeth: none; clothing: ankara; accessories: none; expression: indifferent; strength: none; weakness: unconventional behaviour",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

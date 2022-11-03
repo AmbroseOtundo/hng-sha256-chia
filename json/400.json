@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "400",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nana is a dancer from Kumasi who performes at well known events al over Ghana."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange afro; eyes: brown; teeth: none; clothing: yellow patterned kento; accessories: none; expression: hopeful; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

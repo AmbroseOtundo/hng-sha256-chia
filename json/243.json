@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "243",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "An aso-oke business woman at Balogun market."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: black and grey; teeth: missing two front tooth; clothing: grey and mixed color patterned ankara; accessories: ankara beret; expression: astonished; strength: business acumen; weakness: hot tempered",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

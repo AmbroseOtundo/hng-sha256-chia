@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "282",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A lady that host a fashion week show"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: blond eyes: shades teeth: closed clothing: black and yellow ankara accessories: shades expression: straight-face strength: creativity weakness: perfectionist",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

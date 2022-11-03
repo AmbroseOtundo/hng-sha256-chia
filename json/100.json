@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "100",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A religious woman."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black short hair; eyes: blue; teeth: none; clothing: blue paisley print blouse; accessories: ankara bonnet & hookah;  expression: blank; strength: bold; weakness: fake",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

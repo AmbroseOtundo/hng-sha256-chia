@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "30",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Femi is one of the fliest guys in Lagos."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange; eyes: black; teeth: none; clothings: white t-shirt and blue dongaris; accessories: smoking pipe; expression: unbothered; strength: fearless; weakness: intolerance",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

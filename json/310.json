@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "310",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Hilda prefers to sleep during the day."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: pink   eyes: covered eyes   teeth: none   clothing: multi colored ankara   accessories: none  expression:calm   strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

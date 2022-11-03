@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "68",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A principled guy who is conscious of his health and ensures protection from infection."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: opened; teeth: none; clothing: ankara; accessories: nose mask; expressions: cold; strength: cleaniness; weakness: perfectionist",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "413",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Linda is a carefree woman that pays little attention to whatever is happening round her."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange bob; eyes: brown; teeth: none; clothing: blue one hand dress; accessories: none; expression: mischievous; strength: instigating arguments; weakness: needs to be right",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

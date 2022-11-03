@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "109",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ifeanyi is a music dj that performs at events."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: opened; teeth: opened; clothing: animal print; accessories: red cap; expression: none; strength: mixing songs; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

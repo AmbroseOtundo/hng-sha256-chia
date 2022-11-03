@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "311",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Sisi Yemi is everyone's favourite street aunty."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: dark brown   eyes: brown eyes  teeth: none   clothing: blue and yellow ankara  accessories: none  expression: shocked   strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

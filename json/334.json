@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "334",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "kariuki closes his eyes"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald eyes: closed eyes teeth: skin: clothing: accessories: expression: bored strength: intelligent  weakness: passive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

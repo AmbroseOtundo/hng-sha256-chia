@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "280",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nicole holds the sleep award in our community, she wouldn't wake up at the sound of a detonated nuclear bomb."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:black; eyes: closed; teeth: none; clothing: multicolour ankara with red base; expression: none; strength: leadership; weakness: initiative ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

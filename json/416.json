@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "416",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Bambi is the dancer of the team; anytime she hears a beat shes on her feet."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown low buns; eyes: none; teeth: none; clothing: brown ankara dress;  accessories: yellow sunglasses; expression: cool; strength: dancing; weakness: procrastination",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

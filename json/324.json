@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "324",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "omondi wears a green coat"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:bald eyes: sharp eyed teeth: none skin: brownskin clothing: green ankara accessories: none expression: alert strength: leader weakness: anxious",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

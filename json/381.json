@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "381",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM AXE",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Baba Ijebu likes to spend all his money playing ayo and plays till the moon is high."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none; eyes: sky blue; teeth: none; clothing: none; accessories: facemask; expression: none; strength: creation god; weakness: love",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "108",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Quadri is a devoted teacher that teaches mathematics."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: opened; teeth: none; clothing: yellow on blue jean; accessories: nose mask; expression: none; strength: teaching; weakness: talking",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

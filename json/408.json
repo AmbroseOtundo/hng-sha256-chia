@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "408",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Bimbo is an afro star with great affluence."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange afro; eyes: brown; teeth: none; clothing: ghana kente dress; accessories: none; expression: inspired; strength: money; weakness: aggresive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "383",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Saro is mean, wicked and serves breakfast on a weekly basis."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:shiny bald; eyes:none; teeth: none; clothing: asooke; accessories: none; expression: cunning; strength: thunder clap; weakness: mice",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

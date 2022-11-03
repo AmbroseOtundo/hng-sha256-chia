@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "271",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Sandra is too shy at parties"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:orange; eyes: blue; teeth: none; clothing: yellow off shoulder; expression: none; strength: friendly; weakness: shyness",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

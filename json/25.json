@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "25",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Wole knows people and his way around his city."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: two white teeth with diastema; clothings :yellow dashiki; accessories: yori yori; expression: happy; strength: strong; weakness: promiscuous",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

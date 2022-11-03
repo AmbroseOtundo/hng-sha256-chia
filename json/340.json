@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "340",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "isaya the traveller"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none eyes: glassed up teeth: none skin: brown skin clothing: bright ankara accessories: none expression: taken aback strength: straight forward weakness: selfish",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

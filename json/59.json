@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "59",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Never whisper your secrets to her except you want the world to know."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: blue; eyes:white; teeth: none; clothing: glitter; accessories:none; expression: frowm; strength:goodlistener; weakness:height",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

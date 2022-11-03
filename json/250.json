@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "250",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A danfo driver popular for his positive outlook of life."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: missing two front teeth; clothing: green polo and blue pinafore; accessories: chewing stick and bandana; expression: hopeful; strength: optimistic; weakness: over promises a lot",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

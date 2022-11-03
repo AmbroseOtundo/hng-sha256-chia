@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "82",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A lady that loves to show off."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: back; teeth: none; clothing: kente; accessories: glasses; expression: proud; strength: strong; weakness: big spender",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

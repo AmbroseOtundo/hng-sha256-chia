@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "314",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Omoyene likes to murmur to herself and talks about seeing ghosts"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown  eyes: brown  teeth: none  clothing: yellow ankara  accessories: none  expression: calm  strength: none  weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "410",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nkechi is the true definition of amebo; always in peoples business."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black low cut; eyes: brown; teeth: none; clothing: yellow patterned ankara dress; accessories: ankara beret; expression: none; strength: amebo; weakness: keeping quiet",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

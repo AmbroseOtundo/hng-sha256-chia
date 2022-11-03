@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "248",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "An oil tycoon who dominates."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: white; clothing: agbada; accessories: cap; expression: smiling; strength: negotiations; weakness: stingy",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

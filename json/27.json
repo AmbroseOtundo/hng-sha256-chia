@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "27",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ade is an influential man and he is revered in his town."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: blue; teeth: complete white teeth and a gold tooth; clothings: black and yellow kente; accessories: wine cap; expression:happy; strength: hardworking; weakness: procrastination",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "332",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "mwangaa the chief"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:  bald eyes: blue teeth: none skin: darkskin clothing: white lined ankara accessories: none expression: kindness strength:  brave weakness: impatient",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

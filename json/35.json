@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "35",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Adisa is an elegant man and he is adored by his people."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: none; clothings: kente accessories:abeti-aja cap; expression: mischievous; strength: independent; weakness: bossy",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

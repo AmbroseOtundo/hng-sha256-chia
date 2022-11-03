@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "313",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Gift has always been bold and that spreads to her fashion sense too."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown   eyes: brown   teeth :none   clothing: multi-colored ankara  accessories: none  expression: witty  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

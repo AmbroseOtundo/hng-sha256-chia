@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "339",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "wamenza the leader"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: laid back eyes: none teeth: none skin: brownskin clothing: offshoulder ankara accessories: noneexpression: meditative strength: strict weakness: impulsive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

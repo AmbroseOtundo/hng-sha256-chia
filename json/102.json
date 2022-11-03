@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "102",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Chichi loves dancing and party."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: blue;opened; teeth: none; clothing: ankara print; accessories: none; expression: shocked; strength: dancing; weakness: lovergirl",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

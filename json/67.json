@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "67",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A simple and introverted guy who keeps to himself."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: opened; teeth: none; clothing: eshowe; accessories: nose mask; expression: irritated; strength: strong willed; weakness: relationship",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

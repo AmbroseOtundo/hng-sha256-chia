@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "189",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "The greatest of our time"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black tied with scalf; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: badass weakness: cancer",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

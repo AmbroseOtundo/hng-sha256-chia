@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "136",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Precious is soft hearted and sensitive."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none ;eyes: white; teeth: white; clothings: yellow and blue; accessories:cap; expression:angry; strength:strong; weakness:none;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "386",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Jagaban is a party mover who wows the crowd with his theatrics."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: sleepy; teeth: none; clothing: black danshiki with patterns; accessories: facemask; expression: none; strength: illusions; weakness: mirrors",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

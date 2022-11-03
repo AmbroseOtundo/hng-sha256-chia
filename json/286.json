@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "286",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A Yoruba Man who smokes his pipe in peace"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: covered eyes: white teeth: closed clothing: purple and yellow agbada accessories: cap; smoking pipe expression: passive strength: likes to be in control weakness: lazy",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

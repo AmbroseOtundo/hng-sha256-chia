@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "251",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Osaz benz is an Edo born car dealer who buys only Mercedes Benz cars for his clients."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: red; eyes: black; teeth: gold tooth; clothing: white polo and blue pinafore; accessories: none; expression: unamused; strength: technology savy; weakness:reckless",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

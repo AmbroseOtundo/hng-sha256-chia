@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "106",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nonso is a hardworking Igbo girl."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: opened; teeth: none; clothing: leopard print blouse; accessories: none; expression: happy; strength: business; weakness: spending",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

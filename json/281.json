@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "281",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM HYDRAULICS",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "She is a fashion icon that loves luxurious items."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown eyes: shades teeth: closed clothing: yellow and blue ankara accessories: shades expression: passive strength: confident weakness: over-spending",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

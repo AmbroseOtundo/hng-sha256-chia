@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "119",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Kayode loves life and lives it."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: wide opened; teeth: none; clothing: yellow on jeans; accessories: none; expression: none; strength: swaggy; weakness: loves women",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

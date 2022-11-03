@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "312",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Chiamaka hates people in her business and likes to scare the kids on the block"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: pink  eyes: brown  teeth: none  clothing: multi-colored ankara  accessories: smoking pipe  expression: strong  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

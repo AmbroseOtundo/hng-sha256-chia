@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "213",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Musa uses a tape to cover his mouth to prevent him from talking too much."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: cap; eyes: closed; teeth: none; clothing: shirt; accessories: fashion; expression: none; strength: dressing; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

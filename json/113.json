@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "113",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nnena is beautiful girl that loves to talk about her beauty."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown bob marley; eyes: open; teeth: covered; clothing: african print; accessories: sucker; expression: none; strength: giver; weakness: possesive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

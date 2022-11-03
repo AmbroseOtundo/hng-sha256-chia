@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "167",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Tunde is the big man on the street and flamboyant life style is his identity."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: closed; teeth: white with one tooth missing; clothing: agbada; expression: resting; accessories: head wear; strength: money; weakness: monkey",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "78",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A traditional man; feeling fulfilled."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: closed; teeth: none; clothing: ankara print; accessories: nose mask; expression: excited; strength: conversationist; weakness: traditionalist",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "261",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM POWERDRILL",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Paul trying hard to make everyone laugh so hard and fall off the chair"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:black; eyes: glasses; teeth: none; clothing: black and yellow v neck; expression: cool; strength: trustworthiness; weakness: slow",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

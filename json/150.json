@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "150",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Loves only his igbo and is happy when he finds an old blunt."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown;  eyes: none;  teeth: none;  clothing: brown shirt with dog pattern;  accessories: none;  expression: smirking   strength: none;  weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "111",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nkechi is an international actress that acts in hollywood."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purpule short hair; eyes: opened; teeth: none; clothing: native print; accessories: smoking; expression: rugged; strength: love; weakness: lie",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

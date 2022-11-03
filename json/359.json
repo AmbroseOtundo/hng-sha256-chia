@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "359",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Combining dresses is not a problem for Favour."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black ghana weaving; eyes: cat eyes; teeth: none; clothing: senegalese blowse; accessories: gold shades; expression: party rider; strength: smart; weaknes: lazy;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "91",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A lady given to adventures."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple; eyes: black; teeth: none  clothing: ankara top with blue sleeves; accessories: green necklace & green earrings  expression: clueless; strength: decisive; weakness: stubborn",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

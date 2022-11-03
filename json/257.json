@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "257",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "E be Charlie wey no dey use en stomach play."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:orange afro hairstyle; eyes:azure and bold; teeth:missing two front teeth; clothing:wearing ankara print with white inner; accessories:none; expression:anticipating; strength:cooks well; weakness:always hungry for food",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

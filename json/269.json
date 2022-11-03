@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "269",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Beauty is a fairy tale where Mariam appears."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:orange; eyes: grey; teeth: none; clothing: multicolour yellow kente; expression: straight face; strength: disciplined; weakness: inability to delegate",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

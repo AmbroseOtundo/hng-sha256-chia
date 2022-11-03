@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "407",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Morgan paints the town red with her red hair."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: two brunette buns; eyes: brown; teeth: none; clothing: ankara  dungarees; accessories: tobacco pipe; expression: none; strength: fighting; weakness: bossy",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

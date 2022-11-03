@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "144",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Changes her hair every 2 weeks and cannot finish one pure water."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown afro;  eyes: none;  teeth: none;  clothing: black ankara with yellow; peach; and blue gear pattern;  accessories: none;  expression: unbothered;  strength: none;  weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "101",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM CHISEL",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Adebola loves soft life with her fathers wealth."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: opened; teeth: white; clothing: ankara print ; accessories:none ; expression: staring; strength: bold; outspoken; weakness: pride",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

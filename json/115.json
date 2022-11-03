@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "115",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nnamdi is a barber that devotes time to perfect his craft."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown afro; eyes: open; teeth: smokey; clothing: africa print; accessories: none; expression: none; strength: determined; weakness: loves clubbing",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "316",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Monica is never found without a pipe and loves to interject in every conversation."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: grey   eyes: covered eyes  teeth: none  clothing: black ankara with bright designs  accessories: yellow glasses  expression: hip   strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "83",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A professional fashion designer."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: black; teeth: none; clothing: orange shirt; accessories: glasses; expression: inquisitive; strength: creativity; weakness: opinionated",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

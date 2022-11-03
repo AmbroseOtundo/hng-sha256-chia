@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "37",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Kemi the strongest woman known to the town of Igbede people."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: ginger; eyes: none; teeth: none; clothings: ankara; accessories:glasses and a pipe; expression: cool; strength: disciplined; weakness: perfectionist",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "38",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Mercy is a confident woman and never hesistate to show it."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: none; teeth:none; clothings: ankara; accessories: glasses; expression: sassy; strenght: creative; weakness: sensitive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "124",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Abacha loves taking cigarettes."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:cute braided hair ;eyes: black ball white eye; teeth:none; clothings: mixed colors ankara wear; accessories:none; expression:happy; strength:strong; weakness:anger;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

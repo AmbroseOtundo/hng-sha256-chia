@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "220",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A chronic smoker with damaged lungs."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: cap; eyes: dark-brown; teeth: smoke; clothing: shirt; accessories: fashion; expression: smile; strength: dressing; weakness: smoking",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

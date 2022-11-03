@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "319",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Aisha always party during the weekend"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: red   eyes: covered eyes  teeth: none  clothing: wolf-skin ankara  accessories: yellow glasses  expression: hip  strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

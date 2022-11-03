@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "39",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Sandra likes getting and spending money."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: none; teeth:none; clothings:yellow and black; accessories: glasses; expression: confused; strength: brave; weakness: overthinker",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

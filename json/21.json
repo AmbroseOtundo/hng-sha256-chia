@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "21",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM CLUTCH",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Abdul the life of the party and can never be caught un-fresh."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: none; clothings: purple and yellow kaftan; accessories: cap; expression: happy; strength: strong; weakness: no limitation",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

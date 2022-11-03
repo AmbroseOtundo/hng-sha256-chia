@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "70",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A man who is always peaceful."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: closed; teeth: none; clothing: overall; accessories: nose mask; expression: calm; strength: peaceful; weakness: anger",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "352",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A lady who supports the boy child by providing scholarship to young talented males."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: low cut; eyes: brown; teeth: none; clothing: short orange gown; accessories: nose mask; expression: none; strength: industrious; weaknes:spend lavishly;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

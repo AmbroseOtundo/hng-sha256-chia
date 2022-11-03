@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "18",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "If she says she's in London and you see her; you're in London too."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: braids; eyes: none; teeth: none; clothing: black top; accessories: glasses; expression: none; strength: none; weakness: untruthfulness",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

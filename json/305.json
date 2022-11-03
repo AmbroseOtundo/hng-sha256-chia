@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "305",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Halima loves to bake and cook for her children"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown  eyes: blue   teeth: none   clothing: ankara designed with yellow; red and green  accessories: none  expression: tired   strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

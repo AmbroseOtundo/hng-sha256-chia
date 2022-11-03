@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "224",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A young lady with a soft personality."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brownish pink; eyes: white; teeth: none; clothing: english-ankara; accessories: none; expression: none; strength: calm; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

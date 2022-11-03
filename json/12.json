@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "12",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "He's played every sport known to man. Even cricket."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: yellow; teeth: none; clothing: multicolored; accessories: mask; expression: none; strength: agility; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

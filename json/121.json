@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "121",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "TEAM BRAINBOX",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Azikiwe is a popular trader."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: blue; teeth: none; clothings: purple and yellow; accessories: cap; expression: happy; strength:strong; weakness shy",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

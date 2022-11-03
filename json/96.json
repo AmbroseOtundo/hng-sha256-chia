@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "96",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Superstar from South-South."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: black; teeth: none; clothing: half ankara; accessories: green necklace & red scrunchie; expression: curious; strength: talented; weakness: overconfident",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

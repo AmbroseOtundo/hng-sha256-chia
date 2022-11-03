@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "183",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Cardy is the sharpest amongst her friends"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: two brown bun; eyes: blue  teeth: none  clothing: yoruba-clothing(aso-oke)  accessories: none  expression: strengths: free spirit;lack of fear;confidence: weakness;:misleading;influencing people ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "296",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A young politician who just became a minister"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: covered eyes: grey teeth: closed clothing: yellow and purple agbada accessories: ila expression: smirk strength: team player weakness: deceitful",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

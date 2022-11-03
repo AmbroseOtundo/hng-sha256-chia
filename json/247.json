@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "247",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nonso Malay is an enterprising man who made his fortune after he travelled abroad."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange; eyes: squint; teeth: none and moustache; clothing: agbada; accessories: none; expression: mischevious smile; strength: action person; weakness: doesn't trust anyone",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

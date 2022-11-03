@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "118",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ada loves fashion that she rarely repeats cloths."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown afro; eyes: glasses; teeth: white; clothing: africa print; accessories: none; expression: smiling; strength: successful; weakness: too serious",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

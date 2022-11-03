@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "288",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Winner of the Lagos GT Bank fashion week."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: covered eyes: white teeth: white clothing: wrapper across one shoulder accessories: cap expression: shocked strength: hard-worker weakness: lack of wealth",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

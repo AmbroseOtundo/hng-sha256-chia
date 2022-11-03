@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "117",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Kemi loves food and can also prepare good meals. "
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black har with scarf; eyes: partly opened; teeth: none; clothing: one hand style; accessories: none; expression: none; strength: can cook very well; weakness: dirtiness",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

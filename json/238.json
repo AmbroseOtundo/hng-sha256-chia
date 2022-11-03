@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "238",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A fierce African Queen."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: pumpkin; eyes: brown; teeth: none; clothing: animal skin; accessories: none; expression: energetic; strength: smart; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

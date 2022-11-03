@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "336",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "glasses and a pot for the night"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:dreadlocks eyes: glassed up teeth:none skin: brownskin clothing: off shoulder ankara accessories: a pot expression: free spirited strength: fair weakness: impatient",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

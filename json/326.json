@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "326",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "old but not so old, with yellow his favorite color"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald eyes: black teeth: none skin: dark skin clothing: dark ankara accessories: none  expression: plain strength: fulfilled weakness: angry",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "29",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Charlie uses smoking as a coping mechanism."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black; teeth: none; clothings: black shirt with lion prints; accessories: blue cap; expression: happy; strength: nice; weakness: gullible",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

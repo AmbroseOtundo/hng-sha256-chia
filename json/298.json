@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "298",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "The yoruba man that stole the king's wife."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: covered eyes: grey teeth: white clothing: red and yellow agbada accessories: cap expression: straight face strength: good-looking weakness: womanizer",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

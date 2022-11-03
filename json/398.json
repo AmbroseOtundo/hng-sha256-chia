@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "398",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ashanti is a well known gold trader whose trinkets are one of a kind."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown curly bun; eyes: deep brown; teeth: none; clothing: multicoloured kento; accessories: pipe; expression: amused; strength: lovefist; weakness: easily deceived",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

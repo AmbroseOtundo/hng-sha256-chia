@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "293",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A flashy millionaire and a music rapper"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: covered eyes: closed teeth: white clothing: dongri and yellow t-shirt accessories: cap expression: happy strength: wealth weakness: recklessness",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

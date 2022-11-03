@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "228",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A depressed gothic introvert."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple; eyes: blue; teeth: none; clothing: kente; accessories: none; expression: depressed  strength: none  weakness:weak",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

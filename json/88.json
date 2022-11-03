@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "88",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "The life of every party."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown; eyes: blue; teeth: gap-tooth; clothing: one-sleeved blue top; accessories: none; expression: scary; strength: adventurous; weakness: impulsive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "170",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "If sleeping were to be a job then Dele will be the world busiest man."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: low cut; eyes: closed; teeth: gapped teeth; clothing: agbada; expression: snoozing; accessories: none; strength: loving; weakness: sleep",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

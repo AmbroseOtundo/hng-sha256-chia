@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "66",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "An african princess; always proud of her culture."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: ginger afro; eyes:none; teeth: gap teeth; clothing:umbaco; accessories: sunglasses; expression: fufilled; strengths: confidence; weakness: endurance",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "116",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Amaka is can never be intimidated no matter the circumstance. "
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black hair; eyes: opened; teeth: open teeth; clothing: africa print; accessories: none; expression: laughing; strength: independent; weakness: insultive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

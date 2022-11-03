@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "185",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Her lips so red like a rose"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: beige; eyes: blue  teeth: none  clothing: black-top  accessories: none  expression:strengths: cool headed; weakness: pressure",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

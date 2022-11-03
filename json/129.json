@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "129",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Edu is the biggest merchant in west coast."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none ;eyes: blue; teeth:closed; clothings: black and yellow collar native wear; accessories:cap; expression:happy; strength:strong; weakness:impatience;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

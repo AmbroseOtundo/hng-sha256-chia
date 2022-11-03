@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "163",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Be careful with Bimpe because she cac be sensitive."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple dreadlock; eyes: none; teeth: none; clothing: one arm ankara; expression: mischievious; accessories: eye glasses; strength: humanitarian; weakness: opposite sex",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

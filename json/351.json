@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "351",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Kola is every girls dream man because of his hair style."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: low cut; eyes: mouse eyes; teeth: none; clothing: gbariye style; accessories: nose mask; expression: unhappy; strength: good eyes for details; weakness: sluggish;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

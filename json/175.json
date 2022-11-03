@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "175",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Honorable Femi is the modern day politician but everything he does is only to further his political career."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: blue iris; skin color: brown; teeth: one missing tooth; clothing: aso oke; expression: happy; accessories: abetiaja cap; strength: public speaking; weakness: money",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "171",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Baba Tolu is a proud father. He will sell his soul just to see Tolu excel in life."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black iris; teeth: long front tooth; clothing: ankara; expression: fearfully; accessories: head cap; strength: fatherly; weakness: women",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

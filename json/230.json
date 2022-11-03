@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "230",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A young bride involved in an early marriage."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: dark brown; eyes: blue; teeth: none; clothing: kente; accessories: none; expression: self-sufficient; strength: diligent; weakness: uncritical",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

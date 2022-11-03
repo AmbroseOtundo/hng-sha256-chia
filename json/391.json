@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "391",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Onome is a fashionista with a pereferece for pipes over cigars."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: fuzzy brown; eyes: none; teeth: none; clothing: patterned danshiki;  accessories: glasses and pipe; expression: baddie; strength: all knowing; weakness: ignorance",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

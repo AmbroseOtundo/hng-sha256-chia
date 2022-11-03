@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "179",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Tope is a famous influencer and she is loved by his followers which keep growing everyday."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black iris; teeth: none; clothing: agbada; expression: tired; accessories: tied head scaf; strength: Influencing people; weakness: talk too much",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

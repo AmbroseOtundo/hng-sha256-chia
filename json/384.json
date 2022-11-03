@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "384",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Tope is an alte fashion king in Lagos who spends most of his nights at the club."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: shiny bald; eyes: aquamarine; teeth: none; clothing: none; accessories: none; expression: childlike; strength: healing; weakness: fire",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

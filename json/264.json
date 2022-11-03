@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "264",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Kunle goes for the best and hits all his targets at bull's eye"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:black; eyes: blue; teeth: none; clothing: one handed yellow ankara; expression: smile; strength: fast; weakness: cannot speak english",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

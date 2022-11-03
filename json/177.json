@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "177",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Kweku says he did it but he dey plant until he was bursted."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: closed; teeth: none; clothing: aso oke; expression: smiling; accessories: head wear; strength: industrious; weakness: criminally minded",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

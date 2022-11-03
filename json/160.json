@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "160",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "The electrician well known for wiring burnt buildings."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: red hair; eyes: none; teeth: none; clothing: white top with blue overalls; accessories: none; expression: high; strength: none; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "412",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Zoe got her nickname dada gangster because of her beautiful dreadlocks; she is a sweet one and is ever ready to help others."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: purple dreadlock; eyes: brown; teeth: vampiric; clothing: ankara mixed with black material dress; accessories: none; expression: annoyed; strength: finding trouble; weakness: impulsive",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

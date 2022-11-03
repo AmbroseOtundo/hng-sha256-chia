@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "172",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Chief Emeka is the pillar of the community. Just and fair to all. The real mazi."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: black iris; teeth: full white teeth; clothing: wrapper wrapped around body; expression: smiling; accessories: head cap; strength: leadership; weakness: anger",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

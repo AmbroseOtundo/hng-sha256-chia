@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "346",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A rich oil magnate who loves to solve young women's problems with his millions."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: cat eyes; teeth: none; clothing: purple danshiki; accessories:nose mask; expression: straight face; strength: brave ; weakness: too selfless;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "125",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Johnathan is very progressive young man."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:punk bearded man ;eyes: closed; teeth:none; clothings: white shirt and senator; accessories:cap; expression:bone face; strength:strong; weakness:pride;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

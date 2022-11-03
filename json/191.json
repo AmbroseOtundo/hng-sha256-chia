@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "191",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "The queen in her own space"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: one bun dark brown; eyes: none  teeth: none  clothing: none  accessories: none  expression: none  strength: beauty; weakness: lover girl",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

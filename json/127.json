@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "127",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Eddy has so much positive energy."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:none ;eyes: blue; teeth:none; clothings: black isiagu wear; accessories: cap; expression: happy; strength: strong; weakness:emotional;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

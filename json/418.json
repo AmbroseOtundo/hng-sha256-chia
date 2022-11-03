@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "418",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Busayo has her way of convincing people to do things her way."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black buns; eyes: none; teeth: none; clothing: one hand patterned ankara dress; accessories: tobacco pipe and yellow sunglasses; expression: none; strength: confidence  weakness: always inconsiderate",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

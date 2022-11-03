@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "309",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Asante came from a long line of warriors in Ghana"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: pink braids  eyes: covered eyes   teeth: none  clothing: one-armed brightly colored dress  accessories: none  expression: calm   strength: none   weakness: none ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

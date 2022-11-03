@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "212",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A man that was born bald and has never seen a hair on his head."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: cap; eyes: black; teeth: none; clothing: shirt; accessories: fashion; expression: smirk; strength: deceit; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

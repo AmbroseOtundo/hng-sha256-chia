@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "208",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "A grandmother that does nothing but sleeps all day."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: white; eyes: blue; teeth: none; clothing: blouse; accessories: fashion; expression: smiling; strength: design; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "262",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Amina is always showing the rich housewife vibes"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:red; eyes: blue; teeth: none; clothing: blue and yellow ankara; expression: straight face; strength: fashionista; weakness: exorbitant",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

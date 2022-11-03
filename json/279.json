@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "279",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Students enjoys Olivia's classes"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:dark brown; eyes: closed; teeth: none; clothing: multicolour ankara; expression: none; strength: empathy; weakness: computer literacy ",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

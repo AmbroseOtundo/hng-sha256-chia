@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "387",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Nyame and adventure loving traveller who loves to explore the African continent."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:bald; eyes:black; teeth: none; expression: serious; clothing: yellow patterned danshiki with black lining; accessories: facemask; expression: none; strength: heatblast; weakness: cattles",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

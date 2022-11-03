@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "345",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Odunsi loves to advise and people in the community rely on him."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: dark brown; teeth: none; clothing: one shoulder gown; accessories: none; expression: none; strength: elegant; weakness: easily depressed;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

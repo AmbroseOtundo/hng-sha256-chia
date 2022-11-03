@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "276",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Shakira is the most feared criminal."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:brown braids; eyes: grey; teeth: none; clothing: gold and brown; expression: none; strength: intentional; weakness: rash in decisin making",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

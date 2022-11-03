@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "322",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "closed eyes meditating"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: blad eyes: closed teeth:  noneskin: brownskin clothing: black ankara accessories: none expression: flat strength: open to suggestion weakness: always sleepy",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

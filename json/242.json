@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "242",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Baby of the house, the lastborn of an average Nigerian family."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: black; eyes: blue bold eyes; teeth: none; clothing: animal print gown; accessories: none; expression: teary; strength: truthful; weakness: cannot keep a secret",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

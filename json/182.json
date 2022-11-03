@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "182",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Looking hot as always"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair:brown; eyes: blue  teeth: none  clothing: aso-oke  accessories: none  expression: happy;strengths: calculative; weakness: misleading",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

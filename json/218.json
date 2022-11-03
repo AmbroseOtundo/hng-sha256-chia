@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "218",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Tinubu has been a gateman all his life."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: cap; eyes: blue; teeth: tongue; clothing: shirt; accessories: fashion; expression: laugh; strength: laughter; weakness: none",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "26",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Saro is a baller and he is always ready to turn-up"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: orange afro; eyes: blue; teeth: two white teeth with diastema; clothings: black and yellow kente; accessories: none; expression: angry; strength: strong; weakness: insatiable",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

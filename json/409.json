@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "409",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Sandra is a social animal; correct owambe ambassador."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: brown bun; eyes: brown; teeth: none; clothing: yellow ankara dress; accessories: purple bubblegum; expression: none; strength: relating with people; weakness: short attention span",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

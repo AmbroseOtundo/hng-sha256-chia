@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "417",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Saka is forever convinced that his toothless smile is the icing on his cake."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: none; eyes: none; teeth: none; clothing: black and blue shirt; accessories: purple cap and yellow sunglasses; expression: none; strength: confidence; weakness: stubborn",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

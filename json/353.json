@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "353",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Kunle is special and easily get noticed even in the midst of crowd."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: green punk; eyes: green; teeth: none; clothing: purple agbada; accessories: purple beads; expression: unbothered; strength: very energetic; weaknes:eaaily give in",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

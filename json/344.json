@@ -1,0 +1,25 @@
+{
+    "format": "CHIP-0007",
+    "name": "344",
+    "description": "",
+    "minting_tool": "",
+    "series_number": "",
+    "sensitive_content": false,
+    "series_total": "",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Ojukwu is a business minded guy but fun to be with."
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "hair: bald; eyes: eagle eyeball; teeth: none;  clothing: yellow lining blowse; accessories: none; expression: none; strength: good eyes for fashion; weakness: lack will power;",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}
